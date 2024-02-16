@@ -1,13 +1,12 @@
-### Hi there 👋
 <h1 align="center">
  Hii..
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
- I'am Hari
+ I'am Vishnu
 <h3 align="left">🌐 Connect with me 👇</h3>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hariprasadgyadhav@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/hariprasad_g_yadhav/)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hariprasad-g-yadhav-09369720b) 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnuprakash777@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/vishnu_._777/)
+
 
 
 
@@ -40,9 +39,9 @@
 </br>
  
 - 🌐 Full Stack Webdev
-- 🚩 CTF Player 
-- 🔒 Cyber Security enthusiast 
-- 🌧️ Spends Time to Learn Something New...
+- 🚩 Python Developer
+- 🔒 ML and IP enthusiast 
+- 🌧️ YIP District level winner
 - 💻 CS Student at [NASC](https://nasc.ac.in/)
 </br>
 </br>
@@ -51,4 +50,3 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="H4K3R13's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=H4K3R13&theme=monokai-metallian&hide_border=true"/></a>
 
 <a href=#><img src="contributions.svg"></a>
-
